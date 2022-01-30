@@ -23,8 +23,10 @@
 
 
 
-   End Result:  1) An automated dashboard providing quick sales insights in order to support data driven decision making.
-                2) Sales team able to take better decisions and prove 10% cost saving of total spend.
+   End Result:  
+   
+   1) An automated dashboard providing quick sales insights in order to support data driven decision making.
+   2) Sales team able to take better decisions and prove 10% cost saving of total spend.
    
    
    
