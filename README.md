@@ -6,6 +6,5 @@
 
 
     
-            
-
+   [sales_pdf.pdf](https://github.com/25Sai/Sales_Insights/files/7966624/sales_pdf.pdf)
 
